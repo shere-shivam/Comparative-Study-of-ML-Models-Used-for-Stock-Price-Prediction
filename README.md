@@ -1,5 +1,6 @@
 # Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction...
 
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e3c8bdfe-463f-4f36-9e66-c2e1c9caa415" />
 
 
@@ -18,7 +19,8 @@ This project explores and compares three popular machine learning methods—Long
 - Python: Programming language.  
 - Libraries: NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn,yfinance,etc.  
 - Data Sources: Historical stock price data from Yahoo Finance.  
-- Web: Streamlit-based web application.  
+- Web: Streamlit-based web application.
+- IDE's: Jupyter Notebook, Visual Studio. 
 
 ## Installation  
 - Clone the repository:  
