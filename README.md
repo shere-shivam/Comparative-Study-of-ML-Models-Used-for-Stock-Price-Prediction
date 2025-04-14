@@ -1,4 +1,4 @@
-# Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction
+# Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction...
 
 ## Overview  
 This project explores and compares three popular machine learning methods—Long Short-Term Memory (LSTM), Support Vector Machines (SVM), and Random Forest (RF)—for forecasting stock prices. Using historical stock price data, the study evaluates the models' performance based on Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²) Score to identify their strengths and weaknesses for financial time series forecasting.  
@@ -11,11 +11,11 @@ This project explores and compares three popular machine learning methods—Long
 
 ## Tools and Technologies  
 - Python: Programming language.  
-- Libraries: NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn.  
+- Libraries: NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn,yfinance,etc.  
 - Data Sources: Historical stock price data from Yahoo Finance.  
-- Deployment: Streamlit-based web application.  
+- Web: Streamlit-based web application.  
 
 ## Installation  
-1. Clone the repository:  
+- Clone the repository:  
   
-  
+   https://github.com/shere-shivam/Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction.git
