@@ -1,5 +1,7 @@
-# Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction...
-![Uploading image.png…]()
+Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction...
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/e3c8bdfe-463f-4f36-9e66-c2e1c9caa415" />
+
+
 
 
 ## Overview  
