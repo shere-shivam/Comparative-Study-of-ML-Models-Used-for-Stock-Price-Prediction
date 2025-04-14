@@ -1,5 +1,6 @@
 # Comparative-Study-of-ML-Models-Used-for-Stock-Price-Prediction...
-![image](https://github.com/user-attachments/assets/e23c35de-cdeb-4578-88a3-a02dd37c337e)
+![Uploading image.png…]()
+
 
 ## Overview  
 This project explores and compares three popular machine learning methods—Long Short-Term Memory (LSTM), Support Vector Machines (SVM), and Random Forest (RF)—for forecasting stock prices. Using historical stock price data, the study evaluates the models' performance based on Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²) Score to identify their strengths and weaknesses for financial time series forecasting.  
